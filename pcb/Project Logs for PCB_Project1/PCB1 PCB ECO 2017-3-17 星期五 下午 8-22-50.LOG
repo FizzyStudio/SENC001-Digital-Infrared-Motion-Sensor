@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Added Component: Designator=C14(1608[0603])
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C14-2
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=Sheet1 Member=Component C14 Cap
+Added Room: Name=Sheet1
